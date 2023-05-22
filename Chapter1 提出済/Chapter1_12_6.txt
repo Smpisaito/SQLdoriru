@@ -1,0 +1,10 @@
++---------------------------+----------+
+| referer                   | COUNT(*) |
++---------------------------+----------+
+| http://wings.msn.to/saru/ |        3 |
+| http://wings.msn.to/inu/  |        3 |
+| http://wings.msn.to/tori/ |        2 |
+| http://wings.msn.to/kame/ |        2 |
+| NULL                      |        2 |
++---------------------------+----------+
+5 rows in set (0.001 sec)
